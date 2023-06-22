@@ -1,0 +1,21 @@
+Extension: RyPile
+
+
+
+
+
+Function: compileProject
+	Extension: RyPile.Python
+
+	File: main.py
+
+	Done
+
+
+
+
+
+Call: compileProject
+
+
+
